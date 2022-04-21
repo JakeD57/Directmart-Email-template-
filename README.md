@@ -1,5 +1,5 @@
 # Directmart-Email-template-
-Another email template for a shopping company I made up called Directmart. The email newsletter is responsive as well. 
+Another email template for a shopping company called Directmart. 
 
 [Link to Live Preview!](https://htmlpreview.github.io/?https://github.com/JakeD57/Directmart-Email-template-/blob/master/index.html)
 <hr>
