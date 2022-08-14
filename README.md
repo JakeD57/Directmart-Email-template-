@@ -1,5 +1,5 @@
 # Directmart-Email-template-
-Another email template for a shopping company called Directmart. 
+Email template design for an e-commerce company. 
 
 [Link to Live Preview!](https://htmlpreview.github.io/?https://github.com/JakeD57/Directmart-Email-template-/blob/master/index.html)
 <hr>
